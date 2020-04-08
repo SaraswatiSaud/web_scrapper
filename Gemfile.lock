@@ -250,6 +250,7 @@ DEPENDENCIES
   kimurai
   listen (>= 3.0.5, < 3.2)
   pg (>= 0.18, < 2.0)
+  pry
   puma (~> 3.11)
   rails (~> 5.2.4)
   sass-rails (~> 5.0)
